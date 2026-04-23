@@ -1,0 +1,11 @@
+PARKING_SPOTS = [
+    (100, 200, 80, 160),
+    (200, 200, 80, 160),
+    (300, 200, 80, 160)
+]
+
+MODEL_PATH = "yolov8n.pt"
+VIDEO_PATH = "videos/parking.mp4"
+CONFIDENCE_THRESHOLD = 0.5
+FRAME_WIDTH = 800
+FRAME_HEIGHT = 600
